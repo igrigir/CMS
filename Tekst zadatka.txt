@@ -1,0 +1,12 @@
+PHP Simple CMS
+
+Kreirajte sistem za upravljanje sadržajem koji omogućava korisnicima (administratorima) da kreiraju, uređuju i brišu sadržaj na web sajtu.
+
+Specifične Funkcionalnosti:
+Autentifikacija Korisnika: Registracija, prijava i upravljanje korisničkim ulogama (admin, editor).
+Upravljanje Sadržajem: Kreiranje, uređivanje i brisanje stranica i postova.
+Kategorije i Tagovi: Organizacija sadržaja po kategorijama i tagovima.
+
+
+
+
